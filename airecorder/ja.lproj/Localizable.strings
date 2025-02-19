@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  airecorder
+
+  Created by BillyPark on 1/23/25.
+  
+*/
+"l_main_title" = "AI レコーダー";
+"l_downloading" = "モデルダウンロード中";
+"l_yesterday" = "昨日";
+"l_today" = "今日";
+"l_delete_error" = "削除中にエラーが発生しました。";
+"l_app_info" = "アプリ情報";
+"l_app_version" = "バージョン";
+"l_app_settings" = "設定";
+"l_save_icloud" = "iCloudに保存";
+"l_transcribe" = "音声認識";
+"l_share_file" = "録音ファイル共有";
+"l_t_result" = "音声認識結果";
+"l_copy" = "コピー";
+"l_copied" = "コピーされました";
+"l_edit" = "修正";
+"l_down_model" = "AIモデルのダウンロード中";
+"l_load_model" = "AIモデルのロード中";
+"l_working" = "音声認識処理中です";
+"l_ok" = "OK";
+"l_cancel" = "キャンセル";
+"l_save" = "保存";
+"l_title" = "タイトル";
+"l_content" = "内容";
+"l_error" = "エラー";
+"l_language" = "言語";
+"l_search" = "検索";
+"l_open_source" = "オープンソース";
+"l_contact_us" = "お問い合わせ";
+"l_purchase_restore" = "購入履歴の復元";
+"l_restore_title" = "購入の復元";
+"l_restore_failed" = "購入履歴の復元に失敗しました";
+"l_restore_success" = "購入履歴が正常に復元されました";
+"l_restore_cancelled" = "購入履歴の復元がキャンセルされました";
+"l_close" = "閉じる";
+"l_restore_purchase" = "購入履歴が復元されました。";
+"l_info" = "通知";
+"l_inapp_title" = "AIベースの音声認識";
+"l_inapp_content" = "AI技術で録音された音声をテキストに変換します。設定で認識言語を選択できます。";
+"l_inapp_1" = "一度購入で永遠に無制限に使用する";
+"l_inapp_2" = "すべての機能が利用可能";
+"l_inapp_3" = "アップデート無料提供";
+"l_inapp_4" = "購入後すぐに利用可能";
+"l_inapp_purchase" = "購入する";
+"l_p_message1" = "購入は許可されていません。";
+"l_p_message2" = "商品が見つかりません。";
+"l_p_message3" = "不明なエラーが発生しました。";
+"l_p_message4" = "ネットワークエラーが発生しました。";
+"l_p_message5" = "すでに購入が進行中です。";
+"l_p_message6" = "App Storeアカウントにログインが必要です。";
+"l_p_message7" = "購入認証に失敗しました。";
+"l_p_message8" = "商品情報を読み込んでいます...";
+"l_p_message9" = "商品情報を読み込めませんでした。";
+"l_retry" = "再試行";
+"l_purchase" = "購入";
+"l_purchase_item" = "音声認識機能の購入";

@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  airecorder
+
+  Created by BillyPark on 1/23/25.
+  
+*/
+"l_main_title" = "AI Recorder";
+"l_downloading" = "Model Downloading";
+"l_yesterday" = "Yesterday";
+"l_today" = "Today";
+"l_delete_error" = "An error occurred during deletion.";
+"l_app_info" = "App Info";
+"l_app_version" = "Version";
+"l_app_settings" = "Settings";
+"l_save_icloud" = "Save iCloud";
+"l_transcribe" = "Transcribe";
+"l_share_file" = "Share";
+"l_t_result" = "Transcription Result";
+"l_copy" = "Copy";
+"l_copied" = "Copied";
+"l_edit" = "Edit";
+"l_down_model" = "Downloading AI Model";
+"l_load_model" = "Loading AI Model";
+"l_working" = "Transcribing Audio";
+"l_ok" = "OK";
+"l_cancel" = "Cancel";
+"l_save" = "Save";
+"l_title" = "Title";
+"l_content" = "Content";
+"l_error" = "Error";
+"l_language" = "Language";
+"l_search" = "Search";
+"l_open_source" = "Open Source";
+"l_contact_us" = "Contact Us";
+"l_purchase_restore" = "Purchase restore";
+"l_restore_title" = "Restore Purchases";
+"l_restore_failed" = "Restore Purchases Failed";
+"l_restore_success" = "Purchases Restored Successfully";
+"l_restore_cancelled" = "Purchase restoration has been cancelled";
+"l_close" = "Close";
+"l_restore_purchase" = "Your purchase has been restored.";
+"l_info" = "Information";
+"l_inapp_title" = "AI-based voice recognition";
+"l_inapp_content" = "Convert recorded voices into text using AI technology. You can select the recognition language in the settings.";
+"l_inapp_1" = "Purchase once, get unlimited access forever";
+"l_inapp_2" = "All functions available";
+"l_inapp_3" = "Free updates provided";
+"l_inapp_4" = "Available immediately after purchase";
+"l_inapp_purchase" = "Purchase";
+"l_p_message1" = "Purchase is not allowed.";
+"l_p_message2" = "Item not found.";
+"l_p_message3" = "An unknown error has occurred.";
+"l_p_message4" = "A network error has occurred.";
+"l_p_message5" = "A purchase is already in progress.";
+"l_p_message6" = "You must sign in to your App Store account.";
+"l_p_message7" = "Purchase authentication failed.";
+"l_p_message8" = "Loading product information...";
+"l_p_message9" = "Unable to load product information.";
+"l_retry" = "Try again";
+"l_purchase" = "Purchase";
+"l_purchase_item" = "Purchase voice recognition feature";

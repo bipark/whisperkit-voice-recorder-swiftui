@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  airecorder
+
+  Created by BillyPark on 1/23/25.
+  
+*/
+CFBundleDisplayName = "AIレコーダー";
+NSMicrophoneUsageDescription = "音声録音にはマイクを使用します";

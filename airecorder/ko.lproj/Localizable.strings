@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  airecorder
+
+  Created by BillyPark on 1/23/25.
+  
+*/
+"l_main_title" = "AI 녹음기";
+"l_downloading" = "모델다운로드중";
+"l_yesterday" = "어제";
+"l_today" = "오늘";
+"l_delete_error" = "삭제중에 오류가 발생했습니다.";
+"l_app_info" = "앱 정보";
+"l_app_version" = "버전";
+"l_app_settings" = "설정";
+"l_save_icloud" = "아이클라우드에 저장";
+"l_transcribe" = "음성인식";
+"l_share_file" = "녹음파일공유";
+"l_t_result" = "음성인식결과";
+"l_copy" = "복사";
+"l_copied" = "복사되었습니다";
+"l_edit" = "수정";
+"l_down_model" = "AI 모델 다운로드중";
+"l_load_model" = "AI 모델 로딩중";
+"l_working" = "음성인식 처리중입니다";
+"l_ok" = "확인";
+"l_cancel" = "취소";
+"l_save" = "저장";
+"l_title" = "제목";
+"l_content" = "내용";
+"l_error" = "오류";
+"l_language" = "언어";
+"l_search" = "검색";
+"l_open_source" = "오픈소스";
+"l_contact_us" = "문의하기";
+"l_purchase_restore" = "구매내역복원";
+"l_restore_title" = "구매 복원";
+"l_restore_failed" = "구매 내역 복원에 실패했습니다";
+"l_restore_success" = "구매 내역이 성공적으로 복원되었습니다";
+"l_restore_cancelled" = "구매 내역 복원이 취소되었습니다";
+"l_close" = "닫기";
+"l_restore_purchase" = "구매 내역이 복원되었습니다.";
+"l_info" = "알림";
+"l_inapp_title" = "AI기반 음성인식";
+"l_inapp_content" = "AI 기술로 녹음된 음성을 텍스트로 변환 합니다. 설정에서 인식언어를 선택할수 있습니다.";
+"l_inapp_1" = "한번 구매로 영원히 무제한 이용";
+"l_inapp_2" = "모든 기능 이용가능";
+"l_inapp_3" = "업데이트 무료제공";
+"l_inapp_4" = "구매 후 바로 이용가능";
+"l_inapp_purchase" = "구매하기";
+"l_p_message1" = "구매가 허용되지 않습니다.";
+"l_p_message2" = "상품을 찾을 수 없습니다.";
+"l_p_message3" = "알 수 없는 오류가 발생했습니다.";
+"l_p_message4" = "네트워크 오류가 발생했습니다.";
+"l_p_message5" = "이미 구매가 진행 중입니다.";
+"l_p_message6" = "App Store 계정에 로그인이 필요합니다.";
+"l_p_message7" = "구매 인증에 실패했습니다.";
+"l_p_message8" = "상품 정보를 불러오는 중...";
+"l_p_message9" = "상품 정보를 불러올 수 없습니다.";
+"l_retry" = "다시 시도";
+"l_purchase" = "구매";
+"l_purchase_item" = "음성인식 기능 구매";
